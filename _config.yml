@@ -135,7 +135,7 @@ social:
 #   Map a menu item to a specific FontAwesome icon name.
 #   Key is the name of the item and value is the name of FontAwsome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
-  GitHub: https://github.com/czlitony
+  GitHub: https://github.com/cuicheng11165
   # Twitter: https://twitter.com/your-user-name
   # 微博: http://weibo.com/your-user-name
   # 豆瓣: http://douban.com/people/your-user-name
@@ -237,7 +237,7 @@ auto_excerpt:
   #qcode: /path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
   #description: ex. subscribe to my blog by scanning my public wechat account
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /uploads/wechatpublic.jpg
   description: 欢迎您扫一扫上面的微信公众号，订阅我的博客！
 
@@ -260,7 +260,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: czlitony
+duoshuo_shortname: simmon
 
 # Disqus
 #disqus_shortname:
